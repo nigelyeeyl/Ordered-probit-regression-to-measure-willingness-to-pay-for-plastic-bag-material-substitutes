@@ -1,0 +1,1 @@
+# Ordered-probit-regression-to-measure-willingness-to-pay-for-plastic-bag-material-substitutes
